@@ -1,0 +1,18 @@
+.mainblock{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+.mainblock > div{
+    border: 2px solid green;
+    height: 300px;
+    width: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "emp_id":"001",
+        "emp_name":"Seema",
+        "emp_sal":"30k",
+        "emp_gen":"female",
+        "emp_edu":"Be",
+        "emp_deg":"Software dev",
+        "emp_company":{
+            "previous":"N/A",
+            "current":"XYZ"
+        },
+        "emp_skills":["html","css","js"],
+        "emp_city":"smg",
+        "emp_img":""
+    },
+    {
+        "emp_id":"002",
+        "emp_name":"chandana",
+        "emp_sal":"30k",
+        "emp_gen":"female",
+        "emp_edu":"Be",
+        "emp_deg":"Software dev",
+        "emp_company":{
+            "previous":"N/A",
+            "current":"XYZ"
+        },
+        "emp_skills":["html","css","js"],
+        "emp_city":"dvg",
+        "emp_img":""
+    },
+    {
+        "emp_id":"003",
+        "emp_name":"bhavya",
+        "emp_sal":"30k",
+        "emp_gen":"female",
+        "emp_edu":"Be",
+        "emp_deg":"Software dev",
+        "emp_company":{
+            "previous":"N/A",
+            "current":"XYZ"
+        },
+        "emp_skills":["html","css","js"],
+        "emp_city":"dvg",
+        "emp_img":""
+    },
+    {
+        "emp_id":"004",
+        "emp_name":"Shashank",
+        "emp_sal":"30k",
+        "emp_gen":"male",
+        "emp_edu":"Be",
+        "emp_deg":"java dev",
+        "emp_company":{
+            "previous":"N/A",
+            "current":"XYZ"
+        },
+        "emp_skills":["html","css","js"],
+        "emp_city":"dvg",
+        "emp_img":""
+    }
+]

@@ -1,0 +1,23 @@
+nav{
+    height: 75px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aqua;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 400px;
+    padding: 5px;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: antiquewhite;
+}
+img{
+    height: 37px;
+    width: 190px;
+}

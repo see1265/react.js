@@ -1,0 +1,20 @@
+[
+    {
+        "coursename":"corejava",
+        "trainingduretion":"3 month",
+        "trainername":"shankarsir",
+        "photos":""
+    },
+    {
+        "coursename":"devops",
+        "trainingduretion":"3 month",
+        "trainername":"kiran sir",
+        "photos":""
+    },
+    {
+        "coursename":"mern",
+        "trainingduretion":"3 month",
+        "trainername":"rahul sir",
+        "photos":""
+    }  
+]
